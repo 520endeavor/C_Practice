@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1538142934 source:c:\users\23658\desktop\c_program\vivo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<memory.h>
+

@@ -1,2 +1,2 @@
-# C_Practice
-Practicing C language programing
+# Practicing C_Program
+Practicing program using C_Languag.
